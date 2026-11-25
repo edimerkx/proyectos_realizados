@@ -1,10 +1,15 @@
-## Proyecto destacado: celda de carga con ESP32
-
-[Ver documentación, fotos del armado, trabajo en campo y simulaciones](celda-de-carga/)
-
-Integración de una celda comercial de 500 kg con HX711 y ESP32.
+# Proyectos y experiencia en electrónica
 
 [Ver portafolio profesional](https://edimerk-torres-portafolio.russetchaff8.chatgpt.site/)
+
+## Casos documentados
+
+| Proyecto o experiencia | Trabajo realizado |
+| --- | --- |
+| [Celda de carga con ESP32](celda-de-carga/) | Integración de celda comercial de 500 kg, HX711, ensayos y simulaciones. |
+| [Cabina UV](cabina-uv/) | Diseño, electrónica y construcción para curado de muestras de roca. |
+| [Tomamuestras para reactor](tomamuestras-reactor/) | Diseño y construcción, impresión 3D, electrónica y control de muestreo de aguas residuales. |
+| [Aconcagua: instrumentación de campo](aconcagua-campo/) | Relevamiento de mediciones e instrumentación electrónica en un yacimiento petrolero. |
 
 ---
 
