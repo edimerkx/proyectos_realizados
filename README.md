@@ -1,3 +1,12 @@
+## Proyecto destacado: celda de carga con ESP32
+
+[Ver documentación, fotos del armado, trabajo en campo y simulaciones](celda-de-carga/)
+
+Integración de una celda comercial de 500 kg con HX711 y ESP32.
+
+[Ver portafolio profesional](https://edimerk-torres-portafolio.russetchaff8.chatgpt.site/)
+
+---
 
 Bienvenido a mi repositorio de desarrollo. En este espacio comparto proyectos en los que he participado, enfocados en la programación de controladores, automatización y soluciones de hardware/software.
 
